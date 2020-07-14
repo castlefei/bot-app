@@ -1,0 +1,7 @@
+botbuilder-integration-aiohttp>=4.9.1
+recognizers-text>=1.0.2a1
+botbuilder-core
+botbuilder-ai
+recognizers_number
+recognizers_date_time
+flask
